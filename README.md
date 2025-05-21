@@ -1,6 +1,6 @@
-#**ENGLISH:**
+# ** ENGLISH** 
 
-#**MetaReviewX**
+# **📚 MetaReviewX** 
 
 # **📚 Systematic Review Unification Tool**  
 
@@ -103,9 +103,10 @@ See [LICENSE](LICENSE) for details.
 **Happy Researching! 🎉** 🚀
 
 ---------------------------------------------------------------------------------------------
-#**SPANISH:**
 
-#**MetaReviewX**
+# ** SPANISH** 
+
+# **📚 MetaReviewX** 
 
 # **📚 Herramienta de Unificación para Revisiones Sistemáticas**  
 
