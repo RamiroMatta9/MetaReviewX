@@ -96,7 +96,7 @@ See [LICENSE](LICENSE) for details.
 ---
 
 ### **🌐 Download & Use Now!**  
-🔗 **[GitHub Repository](https://github.com/yourusername/SystematicReview-Unifier)**  
+🔗 **[GitHub Repository](https://github.com/RamiroMatta9/MetaReviewX)**  
 
 ---
 
@@ -201,7 +201,7 @@ Consulta [LICENSE](LICENSE) para más detalles.
 ---
 
 ### **🌐 ¡Descárgalo y úsalo ahora!**  
-🔗 **[Repositorio en GitHub](https://github.com/tuusuario/SystematicReview-Unifier)**  
+🔗 **[Repositorio en GitHub](https://github.com/RamiroMatta9/MetaReviewX)**  
 
 ---
 
